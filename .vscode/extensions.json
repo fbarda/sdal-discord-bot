@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "dbaeumer.jshint",
+        "kisstkondoros.typelens",
+        "WallabyJs.quokka-vscode",
+        "shd101wyy.markdown-preview-enhanced",
+        "donjayamanne.githistory",
+        "HookyQR.JSDocTagComplete",
+        "EditorConfig.EditorConfig",
+        "GitHub.vscode-pull-request-github",
+        "ms-vscode.node-debug2",
+        "ms-vscode.js-debug",
+        "CoenraadS.bracket-pair-colorizer-2"
+    ]
+}
