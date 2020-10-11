@@ -1,0 +1,30 @@
+{
+  "name": "sdal-discord-bot",
+  "version": "0.0.2",
+  "description": "A discord bot made for SDAL Discord server.",
+  "main": "./bot/index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "pg": "^8.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbarda/sdal-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "class",
+    "management",
+    "announcement"
+  ],
+  "author": "fbarda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fbarda/sdal-discord-bot/issues"
+  },
+  "homepage": "https://github.com/fbarda/sdal-discord-bot#readme"
+}
